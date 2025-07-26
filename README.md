@@ -24,4 +24,4 @@ Enable filtering by type, country, release year, and ratings.
 Showcase powerful storytelling with data through visualization.
 
 🖼️ Dashboard Preview
-"Images/netflix.png"
+![Netflix Data Analysis](Images/netflix.png)
